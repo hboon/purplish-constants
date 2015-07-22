@@ -1,0 +1,14 @@
+#define NSLayoutPriorityRequired 1000
+#define NSLayoutPriorityDefaultHigh 750
+#define NSLayoutPriorityDragThatCanResizeWindow 510
+#define NSLayoutPriorityWindowSizeStayPut 500
+#define NSLayoutPriorityDragThatCannotResizeWindow 490
+#define NSLayoutPriorityDefaultLow 250
+#define NSLayoutPriorityFittingSizeCompression 50
+
+#define NSStackViewVisibilityPriorityMustHold 1000
+#define NSStackViewVisibilityPriorityDetachOnlyIfNecessary 900
+#define NSStackViewVisibilityPriorityNotVisible 0
+
+#define NSVariableStatusItemLength -1
+#define NSSquareStatusItemLength -2
