@@ -12,3 +12,8 @@
 
 #define NSVariableStatusItemLength -1
 #define NSSquareStatusItemLength -2
+
+#define UILayoutPriorityRequired 1000
+#define UILayoutPriorityDefaultHigh 750
+#define UILayoutPriorityDefaultLow 250
+#define UILayoutPriorityFittingSizeLevel 50
